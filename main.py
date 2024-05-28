@@ -1,3 +1,2 @@
-def main(a, b , c):
+def main(a, b, c):
     return a + b + c
-
